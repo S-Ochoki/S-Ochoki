@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S-Ochoki
-- 👀 I’m interested in Data, AI/ML, and everything software
+- 👀 I’m interested in Products Management, Data, AI/ML, and everything software
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on any of the above
 - 📫 How to reach me www.linkedin.com/in/sidneyisoe
